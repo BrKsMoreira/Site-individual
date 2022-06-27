@@ -1,0 +1,146 @@
+.wrapper1{
+    width: 100%;
+    height: 100%;
+    left: 0%;
+    top: 0%;
+    position:absolute;
+    background-image: url("fundo.jpg");
+}
+
+.wrapper2{
+    width: 100%;
+    height: 100%;
+    left: 0%;
+    top: 0%;
+    position:absolute;
+    background-image: url("apex21.jpg");
+}
+
+.wrapper3{
+    width: 100%;
+    height: 100%;
+    left: 0%;
+    top: 0%;
+    position:absolute;
+    background-image: url("apex22.jpg");
+}
+
+.wrapper4{
+    width: 100%;
+    height: 100%;
+    left: 0%;
+    top: 0%;
+    position:absolute;
+    background-image: url("apex23.jpg");
+}
+
+.wrapper5{
+    width: 100%;
+    height: 100%;
+    left: 0%;
+    top: 0%;
+    position:absolute;
+    background-image: url("apex24.jpg");
+}
+
+.wrapper6{
+    width: 100%;
+    height: 100%;
+    left: 0%;
+    top: 0%;
+    position:absolute;
+    background-image: url("apex25.jpg");
+}
+
+.indice1{
+    width: 100%;
+    height: 15%;
+    left: 0;
+    top: 0;
+    position:relative;
+}
+
+.logo{
+    width: 10%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    position:relative;
+}
+
+.indice{
+    width: 15%;
+    height: 85%;
+    left: 30px;
+    top: 0;
+    position:relative;
+    font-family: 'Teko', sans-serif;
+}
+
+.historia{
+    width: 85%;
+    height: 85%;
+    right: 0;
+    top: 15%;
+    position:absolute;
+    font-family: 'Teko', sans-serif;
+    font-size: 25px;
+    margin-right: 0%;
+}
+
+.rodape{
+    width: 100%;
+    height: 5%;
+    right: 0%;
+    bottom: 0%;
+    position:absolute;
+    font-family: 'Teko', sans-serif;
+    border-top: 1px solid #000000 ;
+}
+
+#país{
+    width: 10%;
+    height: 10%;
+    right: 0;
+    bottom: 70%;
+    position: absolute;
+}
+
+.logoea{
+    position: absolute;
+}
+
+#textea{
+    width: 10%;
+    height: 10%;
+    right: 0%;
+    bottom: 100%;
+    position: relative;
+    font-family: 'Teko', sans-serif;
+}
+
+.corindice{
+    color: #000000;
+}
+
+#textarea2{
+    width: 50%;
+    height: 50%;
+    margin-left: 550px;
+}
+
+#divbotao{
+    background-color: #cc4b4b;
+    height: 50px;
+    width: 200px;
+    border: 1px solid #000000;
+    border-radius: 100px;
+    margin-left: 900px;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+
+
+
